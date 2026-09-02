@@ -2,21 +2,17 @@
 
 Welcome to my portfolio! Here, I document the projects that I have worked on.
 
-## Table of Contents
-- [SQL](#SQL)
+## :scroll:Table of Contents
 - [R](#R)
+- [SQL](#SQL)
 - [Python](#Python)
 - [HTML](#HTML)
 - [Tableau](#Tableau)
-- [Jupyter](#Jupyter)
+- [Power BI](#PowerBI)
 - 
-
-
-
-## :scroll: Table of Contents
-* SQL
-* Python
-* R
-* HTML
-* Tableau
-* Jupyter
+  
+# R
+| Project | Completion Date | Tools  | Project Description |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
