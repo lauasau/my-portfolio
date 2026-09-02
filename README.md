@@ -14,5 +14,5 @@ Welcome to my portfolio! Here, I document the projects that I have worked on.
 # R
 | Project | Completion Date | Area of Analysis  | Project Description |  Libraries |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Milwaukee Crime Dashboard  | August 2026  | Content Cell  | Content Cell  | shinydashboard, readxl, dplyr, tidyr, lubridate, leaflet, plotly, scales, stringr |
+| :cityscape: Milwaukee Crime Dashboard  | August 2026  | Content Cell  | Content Cell  | shiny, shinydashboard, readxl, dplyr, tidyr, lubridate, leaflet, plotly, scales, stringr, sf, dt,  |
 
