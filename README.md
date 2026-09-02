@@ -29,4 +29,4 @@ Welcome to my portfolio! Here, I document the projects that I have worked on.
 # Tableau
 | Project | Completion Date |  Project Description |  Link |
 | ------------- | ------------- | ------------- | ------------- |
-| :cityscape: Milwaukee PD Crime Dashboard | Ongoing | For this project, I utilized public Milwaukee crime data in order to create a Tableau dashboard. In addition, I was able to create | [Dashboard](https://public.tableau.com/app/profile/laura.saucedo/viz/CrimeDashboard_17765394374580/DASHBOARD)
+| :cityscape: Milwaukee PD Crime Dashboard | Ongoing | For this project, I utilized public Milwaukee crime data in order to create an informative and visually striking dashboard. | [Dashboard](https://public.tableau.com/app/profile/laura.saucedo/viz/CrimeDashboard_17765394374580/DASHBOARD)
