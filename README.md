@@ -1,3 +1,3 @@
-:notebook: # Laura's Portfolio
+# :notebook: Laura's Portfolio
 
 Welcome to my portfolio! 
