@@ -14,7 +14,7 @@ Welcome to my portfolio! Here, I document the projects that I have worked on.
 | Project | Completion Date | Area of Analysis  | Project Description |  Libraries |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | :cop: Milwaukee Crime Dashboard  | August 2026  | Dashboard Building  | By utilizing public Milwaukee crime data, I was able to transform raw data and create an interactive dashboard with RShiny. This dashboard includes bar and line graphs, a point map, and a totals/percent change table. Additionally, I was able to not only create a dashboard, but also clean it up so that it looks professional and aesthetically pleasing. | shiny, shinydashboard, readxl, dplyr, tidyr, lubridate, leaflet, plotly, scales, stringr, sf, dt |
-| :shell: San Diego Crime Dashboard | ONGOING | Dashboard Building | Using San Diego crime data, I was able to create an interactive dashboard with RShiny. This dashboard includes crimes against persons, property and society. | shiny, shinydashboard, eradxl, dplyr, tidyr, lubridate, leaflet, plotly, stringr, sf, dt |
+| :shell: San Diego Crime Dashboard | ONGOING | Dashboard Building | Using San Diego crime data, I was able to create an interactive dashboard with RShiny. This dashboard includes Group A offenses. | shiny, shinydashboard, eradxl, dplyr, tidyr, lubridate, leaflet, plotly, stringr, sf, dt |
 
 # :snake: Python
 | Project | Completion Date | Area of Analysis  | Project Description |  Libraries |
