@@ -34,7 +34,6 @@ Welcome to my portfolio! Here, I document the projects that I have worked on.
 # :bar_chart: PowerBI
 | Project | Completion Date |  Project Description |  Link |
 | ------------- | ------------- | ------------- | ------------- |
-| :police_car: Milwaukee PD Crime Dashboard | Ongoing | For this project, I utilized public Milwaukee crime data in order to create an informative and visually striking dashboard. | [Dashboard](https://public.tableau.com/app/profile/laura.saucedo/viz/CrimeDashboard_17765394374580/DASHBOARD)
-
+| :police_car: Milwaukee PD Crime Dashboard | Ongoing | For this project, I utilized public Milwaukee crime data in order to create an informative and visually striking dashboard. | [Dashboard](https://public.tableau.com/app/profile/laura.saucedo/viz/SanDiegoCrime_17883843203780/Sheet1)
 
 
