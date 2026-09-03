@@ -24,9 +24,9 @@ Welcome to my portfolio! Here, I document the projects that I have worked on.
 | ------------- | ------------- | ------------- | ------------- | plotly dash |
 
 # :globe_with_meridians: HTML
-| Project | Completion Date | Area of Analysis  | Project Description |  Libraries |
+| Project | Completion Date | Area of Analysis  | Project Description |  Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| data | data | data | data | data |
+| :card_file_box: My Portfolio | August 2026 | Web Building & Web Designing | For this project, I wanted to do something different and create my portfolio by using HTML code. The portfolio was then displayed and shared by using Netlify. | [Website](https://lauasau.netlify.app/) |
 
 # :chart_with_upwards_trend: Tableau
 | Project | Completion Date |  Project Description |  Link |
