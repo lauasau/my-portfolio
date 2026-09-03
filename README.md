@@ -18,7 +18,7 @@ Welcome to my portfolio! Here, I document the projects that I have worked on.
 # :snake: Python
 | Project | Completion Date | Area of Analysis  | Project Description |  Libraries |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| data | data | data | data | data |
+| :shell: Milwaukee Seaborn | July 2026 | Data analysis, Data Visualization, EDA | This project gave me the opportunity to practice my seaborn skills. Utilizing Milwaukee crime data, I created a variety of visualizations, and compiled them into a mini dashboard. | data |
 
 # :globe_with_meridians: HTML
 | Project | Completion Date | Area of Analysis  | Project Description |  Libraries |
