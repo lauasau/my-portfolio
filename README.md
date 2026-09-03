@@ -31,11 +31,11 @@ Welcome to my portfolio! Here, I document the projects that I have worked on.
 | Project | Completion Date |  Project Description |  Link |
 | ------------- | ------------- | ------------- | ------------- |
 | :cop: Milwaukee PD Crime Dashboard | Ongoing | For this project, I utilized public Milwaukee crime data in order to create an informative and visually striking dashboard. | [Dashboard](https://public.tableau.com/app/profile/laura.saucedo/viz/CrimeDashboard_17765394374580/DASHBOARD)
-| :anchor: San Diego Crime Dashboard | ONGOING | This project consists of creating a dashboard of Group A offenses that occurred in San Diego from 2021-2025. | [Dashboard] (https://public.tableau.com/app/profile/laura.saucedo/viz/SanDiegoCrime_17883843203780/Sheet1) |
+| :anchor: San Diego Crime Dashboard | ONGOING | This project consists of creating a dashboard of Group A offenses that occurred in San Diego from 2021-2025. | [Dashboard](https://public.tableau.com/app/profile/laura.saucedo/viz/SanDiegoCrime_17883843203780/Sheet1)|
 
 # :bar_chart: PowerBI
 | Project | Completion Date |  Project Description |  Link |
 | ------------- | ------------- | ------------- | ------------- |
-| :police_car: Milwaukee PD Crime Dashboard | Ongoing | For this project, I utilized public Milwaukee crime data in order to create an informative and visually striking dashboard. | [Dashboard](https://public.tableau.com/app/profile/laura.saucedo/viz/SanDiegoCrime_17883843203780/Sheet1)
+| :police_car: Milwaukee PD Crime Dashboard | Ongoing | For this project, I utilized public Milwaukee crime data in order to create an informative and visually striking dashboard. | [Dashboard](https://app.powerbigov.us/view?r=eyJrIjoiNDkzOWNjYjktYWFhNC00YjA1LTk0ZTYtMGI0YjAwMDgwMjE0IiwidCI6IjQxNjQ4ZWI4LTQ2NzMtNGM2NC05NjlhLTAxZjVjMjQ1MGJjZSJ9)
 
 
