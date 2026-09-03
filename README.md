@@ -18,7 +18,7 @@ Welcome to my portfolio! Here, I document the projects that I have worked on.
 # :snake: Python
 | Project | Completion Date | Area of Analysis  | Project Description |  Libraries |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| :shell: Milwaukee Seaborn | July 2026 | Data analysis, Data Visualization, EDA | This project gave me the opportunity to practice my seaborn skills. Utilizing Milwaukee crime data, I created a variety of visualizations, and compiled them into a mini dashboard. | data |
+| :shell: Milwaukee Seaborn | July 2026 | Data analysis, Data Visualization, EDA | This project gave me the opportunity to practice my seaborn skills. Utilizing Milwaukee crime data, I created a variety of visualizations, and compiled them into a mini dashboard. | seaborn pandas matplotlib |
 
 # :globe_with_meridians: HTML
 | Project | Completion Date | Area of Analysis  | Project Description |  Libraries |
@@ -28,7 +28,8 @@ Welcome to my portfolio! Here, I document the projects that I have worked on.
 # :chart_with_upwards_trend: Tableau
 | Project | Completion Date |  Project Description |  Link |
 | ------------- | ------------- | ------------- | ------------- |
-| :policecar: Milwaukee PD Crime Dashboard | Ongoing | For this project, I utilized public Milwaukee crime data in order to create an informative and visually striking dashboard. | [Dashboard](https://public.tableau.com/app/profile/laura.saucedo/viz/CrimeDashboard_17765394374580/DASHBOARD)
+| :cop: Milwaukee PD Crime Dashboard | Ongoing | For this project, I utilized public Milwaukee crime data in order to create an informative and visually striking dashboard. | [Dashboard](https://public.tableau.com/app/profile/laura.saucedo/viz/CrimeDashboard_17765394374580/DASHBOARD)
+| :anchor: San Diego Crime Dashboard | ONGOING | This project consists of creating a dashboard of Group A offenses that occurred in San Diego from 2021-2025. | [Dashboard] (https://public.tableau.com/app/profile/laura.saucedo/viz/SanDiegoCrime_17883843203780/Sheet1) |
 
 # :bar_chart: PowerBI
 | Project | Completion Date |  Project Description |  Link |
