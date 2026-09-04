@@ -31,7 +31,7 @@ Welcome to my portfolio! Here, I document the projects that I have worked on.
 # :chart_with_upwards_trend: Tableau
 | Project | Completion Date |  Project Description |  Link |
 | ------------- | ------------- | ------------- | ------------- |
-| :cop: Milwaukee PD Crime Dashboard | Ongoing | For this project, I utilized public Milwaukee crime data in order to create an informative and visually striking dashboard. | [Dashboard](https://public.tableau.com/app/profile/laura.saucedo/viz/CrimeDashboard_17765394374580/DASHBOARD)
+| :cop: Milwaukee PD Crime Dashboard | Ongoing | This is a dashboard that I created for my 'Crime Analyst' interview for the Milwaukee Police Department. The department expected candidates to show an analytical project that they've created, so I thought, what better way to create something with real Milwaukee crime data!| [Dashboard](https://public.tableau.com/app/profile/laura.saucedo/viz/CrimeDashboard_17765394374580/DASHBOARD)
 | :anchor: San Diego Crime Dashboard | ONGOING | This project consists of creating a dashboard of Group A offenses that occurred in San Diego from 2021-2025. | [Dashboard](https://public.tableau.com/app/profile/laura.saucedo/viz/SanDiegoCrime_17883843203780/Sheet1)|
 
 # :bar_chart: PowerBI
