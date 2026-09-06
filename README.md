@@ -19,9 +19,9 @@ Welcome to my portfolio! Here, I document the projects that I have worked on.
 # :snake: Python
 | Project | Completion Date | Area of Analysis  | Project Description |  Libraries |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| :shell: Seaborn Practice | July 2026 | Data analysis, Data Visualization, EDA | I created this project so that I could practice my Python/seaborn skills. Utilizing Milwaukee crime data, I created a variety of visualizations, and compiled them into a mini dashboard. | seaborn pandas matplotlib |
-| ------------- | ONGOING | ------------- | ------------- | matplotlib |
-| :chart_with_upwards_trend: Plotly Practice | ONGOING | ------------- | ------------- | plotly dash |
+| :shell: Seaborn Practice | ONGOING | Data analysis, Data Visualization, EDA | I created this project so that I could practice my Python/seaborn skills. Utilizing Milwaukee crime data, I created a variety of visualizations, and compiled them into a mini dashboard. | seaborn pandas matplotlib |
+| :bar_chart: | ONGOING | ------------- | ------------- | matplotlib |
+| :chart_with_upwards_trend: Plotly Practice | ONGOING | ------------- | I created this project so that I could practice using plotly and dash. The same Milwaukee crime data was used for this project. | plotly dash |
 
 # :globe_with_meridians: HTML
 | Project | Completion Date | Area of Analysis  | Project Description |  Link |
