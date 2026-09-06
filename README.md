@@ -19,9 +19,9 @@ Welcome to my portfolio! Here, I document the projects that I have worked on.
 # :snake: Python
 | Project | Completion Date | Area of Analysis  | Project Description |  Libraries |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| :shell: Milwaukee Seaborn | July 2026 | Data analysis, Data Visualization, EDA | This project gave me the opportunity to practice my seaborn skills. Utilizing Milwaukee crime data, I created a variety of visualizations, and compiled them into a mini dashboard. | seaborn pandas matplotlib |
-| ------------- | ------------- | ------------- | ------------- | matplotlib |
-| ------------- | ------------- | ------------- | ------------- | plotly dash |
+| :shell: Seaborn Practice | July 2026 | Data analysis, Data Visualization, EDA | I created this project so that I could practice my Python/seaborn skills. Utilizing Milwaukee crime data, I created a variety of visualizations, and compiled them into a mini dashboard. | seaborn pandas matplotlib |
+| ------------- | ONGOING | ------------- | ------------- | matplotlib |
+| :chart_with_upwards_trend: Plotly Practice | ONGOING | ------------- | ------------- | plotly dash |
 
 # :globe_with_meridians: HTML
 | Project | Completion Date | Area of Analysis  | Project Description |  Link |
@@ -31,12 +31,12 @@ Welcome to my portfolio! Here, I document the projects that I have worked on.
 # :chart_with_upwards_trend: Tableau
 | Project | Completion Date |  Project Description |  Link |
 | ------------- | ------------- | ------------- | ------------- |
-| :cop: Milwaukee PD Crime Dashboard | Ongoing | This is a dashboard that I created for my 'Crime Analyst' interview for the Milwaukee Police Department. The department expected candidates to show an analytical project that they've created, so I thought, what better way to create something with real Milwaukee crime data!| [Dashboard](https://public.tableau.com/app/profile/laura.saucedo/viz/CrimeDashboard_17765394374580/DASHBOARD)
+| :cop: Milwaukee PD Crime Dashboard | April 2026 | This is a dashboard that I created for my 'Crime Analyst' interview for the Milwaukee Police Department. The department expected candidates to show an analytical project that they've created, so I thought, what better way to create something with real Milwaukee crime data!| [Dashboard](https://public.tableau.com/app/profile/laura.saucedo/viz/CrimeDashboard_17765394374580/DASHBOARD)
 | :anchor: San Diego Crime Dashboard | ONGOING | This project consists of creating a dashboard of Group A offenses that occurred in San Diego from 2021-2025. | [Dashboard](https://public.tableau.com/app/profile/laura.saucedo/viz/SanDiegoCrime_17883843203780/Sheet1)|
 
 # :bar_chart: PowerBI
 | Project | Completion Date |  Project Description |  Link |
 | ------------- | ------------- | ------------- | ------------- |
-| :police_car: Milwaukee PD Crime Dashboard | Ongoing | For this project, I utilized public Milwaukee crime data in order to create an informative and visually striking dashboard. | [Dashboard](https://app.powerbigov.us/view?r=eyJrIjoiNDkzOWNjYjktYWFhNC00YjA1LTk0ZTYtMGI0YjAwMDgwMjE0IiwidCI6IjQxNjQ4ZWI4LTQ2NzMtNGM2NC05NjlhLTAxZjVjMjQ1MGJjZSJ9)
+| :baby: WIBRS Child Victimization | October 2025 | This project focused on child victimization data from the years 2018-2023 | [Dashboard](https://app.powerbigov.us/view?r=eyJrIjoiNDkzOWNjYjktYWFhNC00YjA1LTk0ZTYtMGI0YjAwMDgwMjE0IiwidCI6IjQxNjQ4ZWI4LTQ2NzMtNGM2NC05NjlhLTAxZjVjMjQ1MGJjZSJ9)
 
 
